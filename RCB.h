@@ -11,7 +11,6 @@
 struct R1 {
     int rid;
     int Status;
-    List<int> waiting_list;
 };
 
 #define R2_Max_Count 2
